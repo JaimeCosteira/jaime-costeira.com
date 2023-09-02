@@ -39,6 +39,7 @@ import Typewriter from '../components/Typewriter.vue'
 
                         <button
                             type="button"
+                            onclick="window.open('https://www.linkedin.com/in/jaime-costeira/','_blank')"
                             class="mb-2 mr-2 inline-block rounded px-3 py-2 text-xs font-medium leading-normal text-white shadow-md 
                             transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg
                             bg-transparent border border-white hover:bg-[#0077b5] hover:border-transparent">
@@ -58,6 +59,7 @@ import Typewriter from '../components/Typewriter.vue'
                         
                         <button
                             type="button"
+                            onclick="window.open('https://github.com/JaimeCosteira','_blank')"
                             class="mb-2 mr-2 inline-block rounded px-3 py-2 text-xs font-medium leading-normal text-white shadow-md 
                             transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg
                             bg-transparent border border-white hover:bg-[#333] hover:border-transparent">
