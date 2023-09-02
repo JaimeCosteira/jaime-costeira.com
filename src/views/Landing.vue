@@ -87,10 +87,9 @@ import Typewriter from '../components/Typewriter.vue'
             </div> -->
 
             <div class="mt-24">
-                <button onclick="window.location.href='#home';" class="px-3 py-2 mb-2 mr-2 text-sm font-medium text-white 
+                <button class="px-3 py-2 mb-2 mr-2 text-sm font-medium text-white 
                 border-white border rounded-full bg-transparent hover:bg-gradient-to-br hover:from-cyan-600 hover:to-blue-600 
-                hover:border-cyan-600 hover:text-white focus:outline-none focus:ring-2 focus:ring-cyan-200 transform 
-                transition-transform hover:scale-105 cursor-default">
+                hover:border-cyan-600 hover:text-white transform transition-transform hover:scale-105 cursor-default">
                     <div class="flex justify-center items-center">
                         <!-- <img src="../assets/arrow.svg" class="w-5 h-3 mr-1" alt="Arrow" /> -->
                         <p class="mr-1">Further content coming soon</p>
