@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "tailwind-typewriter": "^1.0.1",
+    "tw-elements": "^1.0.0-beta3",
     "vue": "^3.3.4"
   },
   "devDependencies": {
