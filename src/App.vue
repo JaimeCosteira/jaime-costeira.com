@@ -13,6 +13,11 @@ import Introduction from './views/Introduction.vue'
 <style scoped>
 .background {
   background-color: #00264d;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   z-index: -1;
 }
 </style>
